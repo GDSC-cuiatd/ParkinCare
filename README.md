@@ -8,11 +8,12 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 ### 🛠️ Key Functionalities
 
-•	The project's primary aim is to employ machine learning and a mobile app for the early detection of Parkinson's disease.
-•	Our future app will simplify the process of identifying signs of Parkinson's disease.
-•	Users will have the ability to draw pictures or upload photos for analysis.
-•	The app will analyze these drawings and images for potential disease indicators.
-•	This has the potential to enhance the treatment prospects for individuals with Parkinson's disease
+- The project's primary aim is to employ machine learning and a mobile app for the early detection of Parkinson's disease.
+- Our future app will simplify the process of identifying signs of Parkinson's disease.
+- Users will have the ability to draw pictures or upload photos for analysis.
+- The app will analyze these drawings and images for potential disease indicators.
+- This has the potential to enhance the treatment prospects for individuals with Parkinson's disease.
+
 
 ### 🎯 UN's Sustainable Development Goals & Targets
 
@@ -26,19 +27,12 @@ User-friendly and non-invasive, PD-Scan encourages early diagnosis, contributing
 Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
 ### 👨🏻‍💻 Technology Stack
 
-Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32
-
-### ☁️ Enterprise Cloud Architecture & Services
-
-For detailed information on the architecture and services utilized by HeadHome, refer to the [Enterprise Cloud Architecture & Services](#) section.
-
-### Getting Started
-
-To run this application, Flutter (Version 2.19.2+) must be installed. Detailed instructions on how to run the application can be found [here](#).
+Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter | Dart| TensorFlow
 
 ### 👥 Contributors
 
-- Chay Hui Xiang, Nanyang Technological University
-- Chang Dao Zheng, Nanyang Technological University
-- Marc Chern Di Yong, Nanyang Technological University
-- Ong Jing Xuan, Nanyang Technological University
+- Khizar Hayat (AI,Ml lead)
+- Zainab Tahir (FLutter Developer)
+- Zakir Fayyaz (UI,UX)
+- Nayab Zahra (Project Management)
+
