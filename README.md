@@ -8,20 +8,11 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 ### 🛠️ Key Functionalities
 
-1. **Dementia Patient**
-   - The Dementia Patient can request help from their Caregiver and begin navigation back home by tapping the red "Navigate Home" button on their home page.
-   - The application will also begin navigation when the Patient leaves the configurable safe zone radius around their home or when they press the red button on the companion wrist wearable device.
-   - This will display a route home on the Google Maps widget, updated as the patient progresses, rerouting when necessary.
-
-2. **Caregiver**
-   - The Caregiver receives a notification when their respective Patients start to navigate home, informing them about the Patient's current location.
-   - Caregivers can choose to send an SOS alert signal to Volunteers if needed.
-   - Caregivers can contact the Volunteers who are guiding the Patient back home through the application.
-
-3. **Volunteers**
-   - Volunteers can view nearby SOS alerts and select the Patient they wish to help.
-   - The app provides Volunteers with the current location of the Patient and allows them to redirect to Google Maps for navigation.
-   - Volunteers can start leading the Patient home after verifying the Patient's Authentication ID.
+•	The project's primary aim is to employ machine learning and a mobile app for the early detection of Parkinson's disease.
+•	Our future app will simplify the process of identifying signs of Parkinson's disease.
+•	Users will have the ability to draw pictures or upload photos for analysis.
+•	The app will analyze these drawings and images for potential disease indicators.
+•	This has the potential to enhance the treatment prospects for individuals with Parkinson's disease
 
 ### 🎯 UN's Sustainable Development Goals & Targets
 
