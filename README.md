@@ -45,6 +45,8 @@ Affordable and easy-to-use, PD-Scan addresses healthcare disparities,
 ### 👨🏻‍💻 Technology Stack
 
 Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter | Dart| TensorFlow
+<img width="638" alt="TECH" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/8e7e966d-361c-4f5b-ad6c-9ac71aefb18d">
+
 
 ### 👥 Contributors
 
