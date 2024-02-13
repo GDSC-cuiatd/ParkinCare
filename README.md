@@ -64,4 +64,3 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
     <p>Project Management</p>
   </div>
 </div>
-
