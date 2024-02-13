@@ -53,18 +53,5 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
 - Zainab Tahir (Flutter Developer)
 - Zakir Fayyaz (UI/UX)
 - Nayab Zahra (Project Management)
-THIS SHOULD BE IN ONE LINE IMAGE SHOULD BE  RIGHT
-<img width="496" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b">
 
-- **SDG 1: Economic Impact Reduction**  
-PD-Scan provides a cost-effective early detection tool for Parkinson's,
-minimizing economic burdens on individuals and society.
-
-- **SDG 2: Improved Health & Well-Being**  
-User-friendly and non-invasive, PD-Scan encourages early diagnosis,
- contributing to better health outcomes and improved well-being for individuals with Parkinson's.
-
-- **SDG 3: Healthcare Equality & Accessibility**  
-Affordable and easy-to-use, PD-Scan addresses healthcare disparities,
- ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
 
