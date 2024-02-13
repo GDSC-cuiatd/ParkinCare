@@ -19,10 +19,10 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 ### 🛠️ Key Functionalities
 
-<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px;">
-  <div style="display: flex; align-items: center;">
-    <img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352" style="margin-right: 20px;">
-    <div>
+<div class="key-functionalities-container">
+  <div class="content">
+    <img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352">
+    <div class="text">
       <p>The project's primary aim is to employ machine learning and a mobile app for the early detection of Parkinson's disease.</p>
       <p>Our future app will simplify the process of identifying signs of Parkinson's disease.</p>
       <p>Users will have the ability to draw pictures or upload photos for analysis.</p>
@@ -31,6 +31,42 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
     </div>
   </div>
 </div>
+
+<style>
+.key-functionalities-container {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.content img {
+  width: 100%;
+  max-width: 338px;
+  margin-bottom: 20px;
+}
+
+.text {
+  flex: 1;
+}
+
+@media (min-width: 768px) {
+  .content {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .content img {
+    margin-right: 20px;
+    margin-bottom: 0;
+  }
+}
+</style>
+
 
 ### 🎯 UN's Sustainable Development Goals & Targets
 
