@@ -49,6 +49,7 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
 
 
 ### 👥 Contributors
+ <img width="348" alt="Khizar Hayat" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/1b866708-bac6-4b86-b5f0-456086cb4aaa"> Khizar Hayat (AI, ML lead)
 
 - Khizar Hayat (AI, ML lead)
 - Zainab Tahir (Flutter Developer)
