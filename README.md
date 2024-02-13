@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="file:///D:/Solution%20challenge/parkin.png" alt="ParkinCare Logo">
+  <img width="255" alt="parkin" src="https://raw.githubusercontent.com/GDSC-cuiatd/team_khizar/main/assets/144155704/a2526d99-4a28-4b03-a3d2-5139fc57f2ae">
 </p>
-
 
 # ParkinCare
 
