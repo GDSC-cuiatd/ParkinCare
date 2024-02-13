@@ -44,21 +44,33 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
 ### 👥 Contributors
 <p align="center">
   <img width="200" alt="Khizar Hayat" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/1b866708-bac6-4b86-b5f0-456086cb4aaa"><br/> 
-  Khizar Hayat<br/> 
+  Khizar Hayat
+</p>
+<p align="center">
   AI, ML lead
-
-  <img width="200" alt="Zainab Tahir" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/2e420e46-fd24-4c45-8584-e20c6dff0c1f"><br/>
-  Zainab Tahir<br/> 
-  Flutter Developer
-
-  <img width="200" alt="Zakir Fayyaz" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/07e644fe-57ac-4912-9939-517d25517f03"><br/>
-  Zakir Fayyaz<br/> 
-  UI/UX
-
-  <img width="200" alt="Nayab Zahra" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/92119ec5-11ee-48f3-a66b-52d6ad67b8e2"><br/>
-  Nayab Zahra<br/> 
-  Project Management
 </p>
 
+<p align="center">
+  <img width="200" alt="Zainab Tahir" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/2e420e46-fd24-4c45-8584-e20c6dff0c1f"><br/>
+  Zainab Tahir
+</p>
+<p align="center">
+  Flutter Developer
+</p>
 
+<p align="center">
+  <img width="200" alt="Zakir Fayyaz" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/07e644fe-57ac-4912-9939-517d25517f03"><br/>
+  Zakir Fayyaz
+</p>
+<p align="center">
+  UI/UX
+</p>
+
+<p align="center">
+  <img width="200" alt="Nayab Zahra" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/92119ec5-11ee-48f3-a66b-52d6ad67b8e2"><br/>
+  Nayab Zahra
+</p>
+<p align="center">
+  Project Management
+</p>
 
