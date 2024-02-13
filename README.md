@@ -16,13 +16,13 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 
 ### 🛠️ Key Functionalities
+<p align="right"><img width="185" alt="spiral" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/63068f9a-99ec-4548-9dc7-3eba15754910"></p>
 
 - The project's primary aim is to employ machine learning and a mobile app for the early detection of Parkinson's disease. 
 - Our future app will simplify the process of identifying signs of Parkinson's disease.
 - Users will have the ability to draw pictures or upload photos for analysis.
 - The app will analyze these drawings and images for potential disease indicators.
 - This has the potential to enhance the treatment prospects for individuals with Parkinson's disease.
--  <p align="right"><img width="185" alt="spiral" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/63068f9a-99ec-4548-9dc7-3eba15754910"></p>
 
 
 ### 🎯 UN's Sustainable Development Goals & Targets
