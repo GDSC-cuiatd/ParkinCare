@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="255" alt="parkin" src="assets/144155704/a2526d99-4a28-4b03-a3d2-5139fc57f2ae">
-</p>
+<img width="255" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c">
 
 # ParkinCare
 
