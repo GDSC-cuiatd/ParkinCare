@@ -1,6 +1,7 @@
-<p align="center">
-  <img width="255" src="https://github.com/GDSC-cuiatd/team_khizar/blob/main/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c/parkin.png">
-</p>
+<div style="text-align: center;">
+  <img width="255" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c">
+</div>
+
 
 <h1 align="center">ParkinCare</h1>
 
