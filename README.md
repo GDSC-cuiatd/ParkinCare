@@ -19,6 +19,8 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 </p>
 
 ### 🛠️ Key Functionalities
+<p align="right"><img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352"></p>
+
 
 - The project's primary aim is to employ machine learning and a mobile app for the early detection of Parkinson's disease. 
 - Our future app will simplify the process of identifying signs of Parkinson's disease.
