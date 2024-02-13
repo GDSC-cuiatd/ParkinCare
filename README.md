@@ -42,24 +42,24 @@ Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring a
 Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter | Dart| TensorFlow
 
 ### 👥 Contributors
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img width="200" alt="Khizar Hayat" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/1b866708-bac6-4b86-b5f0-456086cb4aaa">
+    <img width="200" alt="Khizar Hayat" src="https://github.com/GDSC-cuiatd/team_khizar/raw/master/assets/144155704/1b866708-bac6-4b86-b5f0-456086cb4aaa.jpg">
     <p>Khizar Hayat</p>
     <p>AI, ML lead</p>
   </div>
   <div style="text-align: center;">
-    <img width="200" alt="Zainab Tahir" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/2e420e46-fd24-4c45-8584-e20c6dff0c1f">
+    <img width="200" alt="Zainab Tahir" src="https://github.com/GDSC-cuiatd/team_khizar/raw/master/assets/144155704/2e420e46-fd24-4c45-8584-e20c6dff0c1f.jpg">
     <p>Zainab Tahir</p>
     <p>Flutter Developer</p>
   </div>
   <div style="text-align: center;">
-    <img width="200" alt="Zakir Fayyaz" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/07e644fe-57ac-4912-9939-517d25517f03">
+    <img width="200" alt="Zakir Fayyaz" src="https://github.com/GDSC-cuiatd/team_khizar/raw/master/assets/144155704/07e644fe-57ac-4912-9939-517d25517f03.jpg">
     <p>Zakir Fayyaz</p>
     <p>UI/UX</p>
   </div>
   <div style="text-align: center;">
-    <img width="200" alt="Nayab Zahra" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/92119ec5-11ee-48f3-a66b-52d6ad67b8e2">
+    <img width="200" alt="Nayab Zahra" src="https://github.com/GDSC-cuiatd/team_khizar/raw/master/assets/144155704/92119ec5-11ee-48f3-a66b-52d6ad67b8e2.jpg">
     <p>Nayab Zahra</p>
     <p>Project Management</p>
   </div>
