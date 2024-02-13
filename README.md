@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">ParkinCare</h1>
-<hr>
+
 
 <p align="center">
 Sketching A healthier Future with Parkinson
