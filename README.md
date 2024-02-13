@@ -62,3 +62,4 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
   <img width="200" alt="Nayab Zahra" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/92119ec5-11ee-48f3-a66b-52d6ad67b8e2"><br/>
   Nayab Zahra
 </p>
+
