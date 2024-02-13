@@ -14,18 +14,18 @@ Sketching A healthier Future with Parkinson
 Millions of people globally have Parkinson's disease, a serious brain disorder. Detecting it early is vital for good treatment. But the tests we use now, like DaTscan and MRI, are expensive and can be risky. Many folks wait until their symptoms get really bad before going to the doctor, which makes treatment less effective. We need a tool that's easy to use and doesn't cost a lot to catch Parkinson's early and help people get the right care sooner.
 
 <p align="center">
-  <img width="600" alt="spiral" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/bab01ed6-36c1-4724-a609-04945e0844ac">
+  <img width="300" alt="spiral" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/bab01ed6-36c1-4724-a609-04945e0844ac">
 </p>
 
 
 ### 🛠️ Key Functionalities
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img width="400" alt="DRAWINGKEY" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3eb4c7c1-f20e-4d99-b4cd-19db60c6e0ff">
-  <img width="400" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img width="300" alt="DRAWINGKEY" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3eb4c7c1-f20e-4d99-b4cd-19db60c6e0ff">
+  <img width="300" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352">
 </div>
 
 ### 🎯 UN's Sustainable Development Goals & Targets
-<p align="center"><img width="600" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b"></p>
+<p align="center"><img width="300" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b"></p>
 
 - **SDG 1: Economic Impact Reduction**  
 PD-Scan provides a cost-effective early detection tool for Parkinson's, minimizing economic burdens on individuals and society.
@@ -37,7 +37,7 @@ User-friendly and non-invasive, PD-Scan encourages early diagnosis, contributing
 Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
 
 ### 👨🏻‍💻 Technology Stack
-<p align="center"><img width="800" alt="TECH" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/8e7e966d-361c-4f5b-ad6c-9ac71aefb18d"></p>
+<p align="center"><img width="300" alt="TECH" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/8e7e966d-361c-4f5b-ad6c-9ac71aefb18d"></p>
 
 Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter | Dart| TensorFlow
 
