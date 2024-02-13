@@ -1,6 +1,6 @@
 <h1 align="center">Early Detection of Parkinson's Disease through Drawing project</h1>
 <p align="center">
-  <img width="255" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c">
+  <img width="350" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c">
 </p>
 
 <h1 align="center">ParkinCare</h1>
@@ -42,5 +42,4 @@ Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring a
 Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter | Dart| TensorFlow
 
 ### 👥 Contributors
-  <img width="679" alt="team" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/d816a7b4-4c27-410b-9b7c-6c935efd64c4">
-
+  <img width="800" alt="team" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/d816a7b4-4c27-410b-9b7c-6c935efd64c4">
