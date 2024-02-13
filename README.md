@@ -29,19 +29,21 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 
 ### 🎯 UN's Sustainable Development Goals & Targets
-<img width="496" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b">
-
-- **SDG 1: Economic Impact Reduction**  
-PD-Scan provides a cost-effective early detection tool for Parkinson's,
-minimizing economic burdens on individuals and society.
-
-- **SDG 2: Improved Health & Well-Being**  
-User-friendly and non-invasive, PD-Scan encourages early diagnosis,
- contributing to better health outcomes and improved well-being for individuals with Parkinson's.
-
-- **SDG 3: Healthcare Equality & Accessibility**  
-Affordable and easy-to-use, PD-Scan addresses healthcare disparities,
- ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
+<div style="border: 1px solid black; padding: 10px;">
+  <strong>SDG 1: Economic Impact Reduction</strong><br/>
+  PD-Scan provides a cost-effective early detection tool for Parkinson's,
+  minimizing economic burdens on individuals and society.
+</div>
+<div style="border: 1px solid black; padding: 10px;">
+  <strong>SDG 2: Improved Health & Well-Being</strong><br/>
+  User-friendly and non-invasive, PD-Scan encourages early diagnosis,
+  contributing to better health outcomes and improved well-being for individuals with Parkinson's.
+</div>
+<div style="border: 1px solid black; padding: 10px;">
+  <strong>SDG 3: Healthcare Equality & Accessibility</strong><br/>
+  Affordable and easy-to-use, PD-Scan addresses healthcare disparities,
+  ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
+</div>
 
 ### 👨🏻‍💻 Technology Stack
 
