@@ -19,10 +19,10 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 
 ### 🛠️ Key Functionalities
-
-  <p align="left">  <img width="431" alt="DRAWINGKEY" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3eb4c7c1-f20e-4d99-b4cd-19db60c6e0ff"></p>
-
-  <p align="right">  <img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352" style="margin-right: 20px;"></p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img width="431" alt="DRAWINGKEY" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3eb4c7c1-f20e-4d99-b4cd-19db60c6e0ff">
+  <img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352" style="margin-left: 20px;">
+</div>
 
 
 
