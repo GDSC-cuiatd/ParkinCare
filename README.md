@@ -50,10 +50,9 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
 </p>
 
 <p align="center">
-  Khizar Hayat &nbsp;&nbsp;&nbsp;&nbsp; Zainab Tahir &nbsp;&nbsp;&nbsp;&nbsp; Zakir Fayyaz &nbsp;&nbsp;&nbsp;&nbsp; Nayab Zahra
+  Khizar Hayat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zainab Tahir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zakir Fayyaz &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nayab Zahra
 </p>
 
 <p align="center">
-  AI, ML lead &nbsp;&nbsp;&nbsp;&nbsp; Flutter Developer &nbsp;&nbsp;&nbsp;&nbsp; UI/UX &nbsp;&nbsp;&nbsp;&nbsp; Project Management
+  AI, ML lead &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flutter Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UI/UX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Management
 </p>
-
