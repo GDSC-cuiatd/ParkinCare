@@ -1,4 +1,3 @@
-User
 <h1 align="center">Early Detection of Parkinson's Disease through Drawing project</h1>
 <p align="center">
   <img width="255" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c">
@@ -29,21 +28,19 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 
 ### 🎯 UN's Sustainable Development Goals & Targets
-<div style="border: 1px solid black; padding: 10px;">
-  <strong>SDG 1: Economic Impact Reduction</strong><br/>
-  PD-Scan provides a cost-effective early detection tool for Parkinson's,
-  minimizing economic burdens on individuals and society.
-</div>
-<div style="border: 1px solid black; padding: 10px;">
-  <strong>SDG 2: Improved Health & Well-Being</strong><br/>
-  User-friendly and non-invasive, PD-Scan encourages early diagnosis,
-  contributing to better health outcomes and improved well-being for individuals with Parkinson's.
-</div>
-<div style="border: 1px solid black; padding: 10px;">
-  <strong>SDG 3: Healthcare Equality & Accessibility</strong><br/>
-  Affordable and easy-to-use, PD-Scan addresses healthcare disparities,
-  ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
-</div>
+<img width="496" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b">
+
+- **SDG 1: Economic Impact Reduction**  
+PD-Scan provides a cost-effective early detection tool for Parkinson's,
+minimizing economic burdens on individuals and society.
+
+- **SDG 2: Improved Health & Well-Being**  
+User-friendly and non-invasive, PD-Scan encourages early diagnosis,
+ contributing to better health outcomes and improved well-being for individuals with Parkinson's.
+
+- **SDG 3: Healthcare Equality & Accessibility**  
+Affordable and easy-to-use, PD-Scan addresses healthcare disparities,
+ ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
 
 ### 👨🏻‍💻 Technology Stack
 
@@ -55,5 +52,3 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
 - Zainab Tahir (Flutter Developer)
 - Zakir Fayyaz (UI/UX)
 - Nayab Zahra (Project Management)
-
-
