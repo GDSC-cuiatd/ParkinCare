@@ -19,6 +19,7 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 ### 🛠️ Key Functionalities
 
+
 <div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px;">
   <div style="display: flex; align-items: center;">
     <img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352" style="margin-right: 20px;">
@@ -32,16 +33,16 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
   </div>
 </div>
 
-<style>
-  @media (max-width: 768px) {
-    div[style*="background-color: #f7f7f7; padding: 20px; border-radius: 10px;"] {
-      padding: 10px;
-    }
-    img[style*="margin-right: 20px;"] {
-      margin-right: 10px;
-    }
+
+@media (max-width: 768px) {
+  div[style*="background-color: #f7f7f7; padding: 20px; border-radius: 10px;"] {
+    padding: 10px;
   }
-</style>
+  img[style*="margin-right: 20px;"] {
+    margin-right: 10px;
+  }
+}
+
 
 
 
