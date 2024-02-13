@@ -42,24 +42,8 @@ Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring a
 Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter | Dart| TensorFlow
 
 ### 👥 Contributors
-<div style="display: flex; flex-direction: row;">
-  <div style="text-align: center; margin-right: 20px;">
-    <img width="200" alt="Khizar Hayat" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/1b866708-bac6-4b86-b5f0-456086cb4aaa"><br/> 
-    Khizar Hayat
-  </div>
+## 👥 &nbsp;Contributors
 
-  <div style="text-align: center; margin-right: 20px;">
-    <img width="200" alt="Zainab Tahir" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/2e420e46-fd24-4c45-8584-e20c6dff0c1f"><br/>
-    Zainab Tahir
-  </div>
-
-  <div style="text-align: center; margin-right: 20px;">
-    <img width="200" alt="Zakir Fayyaz" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/07e644fe-57ac-4912-9939-517d25517f03"><br/>
-    Zakir Fayyaz
-  </div>
-
-  <div style="text-align: center;">
-    <img width="200" alt="Nayab Zahra" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/92119ec5-11ee-48f3-a66b-52d6ad67b8e2"><br/>
-    Nayab Zahra
-  </div>
-</div>
+| <a href="YOUR_GITHUB_PROFILE_LINK"><img width="180px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/1b866708-bac6-4b86-b5f0-456086cb4aaa" alt=""/></a> | <a href="YOUR_GITHUB_PROFILE_LINK"><img width="180px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/2e420e46-fd24-4c45-8584-e20c6dff0c1f" alt=""/></a> | <a href="YOUR_GITHUB_PROFILE_LINK"><img width="180px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/07e644fe-57ac-4912-9939-517d25517f03" alt=""/></a> | <a href="YOUR_GITHUB_PROFILE_LINK"><img width="180px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/92119ec5-11ee-48f3-a66b-52d6ad67b8e2" alt=""/></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div align="center"><h3><b><a href="YOUR_GITHUB_PROFILE_LINK">Khizar Hayat</a></b></h3><p><i>AI, ML lead</i></p></div>                                                                               | <div align="center"><h3><b><a href="YOUR_GITHUB_PROFILE_LINK">Zainab Tahir</a></b></h3></a><p><i>Flutter Developer</i></p></div>                                                                          | <div align="center"><h3><b><a href="YOUR_GITHUB_PROFILE_LINK">Zakir Fayyaz</a></b></h3></a><p><i>UI/UX</i></p></div></a>                                                               | <div align="center"><h3><b><a href="YOUR_GITHUB_PROFILE_LINK">Nayab Zahra</a></b></h3></a><p><i>Project Management</i></p></div>                                                                            |
