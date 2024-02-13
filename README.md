@@ -1,7 +1,7 @@
-# HeadHome
-Your companion, every step of the way
+# ParkinCare
+Sketching A healthier Future with Parkinsion
 
-## HeadHome: Your Go-To Dementia Aid Solution
+##ParkinCaew: Your Go-To Dementia Aid Solution
 
 HeadHome aims to reduce the dangers posed by dementia wandering and provide caregivers of our dementia counterparts with an effective means of locating them and safely returning them home.
 
