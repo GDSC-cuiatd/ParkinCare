@@ -42,7 +42,7 @@ Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring a
 Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter | Dart| TensorFlow
 
 ### 👥 Contributors
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
   <div style="text-align: center;">
     <img width="200" alt="Khizar Hayat" src="https://github.com/GDSC-cuiatd/team_khizar/raw/master/assets/144155704/1b866708-bac6-4b86-b5f0-456086cb4aaa.jpg">
     <p>Khizar Hayat</p>
@@ -64,3 +64,4 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
     <p>Project Management</p>
   </div>
 </div>
+
