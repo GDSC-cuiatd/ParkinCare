@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///D:/Solution challenge parkin.png" alt="ParkinCare Logo">
+  <img src="file:///D:/Solution%20challenge/parkin.png" alt="ParkinCare Logo">
 </p>
 
 # ParkinCare
