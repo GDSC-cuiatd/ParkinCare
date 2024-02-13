@@ -1,20 +1,10 @@
 # ParkinCare
 Sketching A healthier Future with Parkinsion
 
-##ParkinCaew: Your Go-To Dementia Aid Solution
-
-HeadHome aims to reduce the dangers posed by dementia wandering and provide caregivers of our dementia counterparts with an effective means of locating them and safely returning them home.
-
 ### Problem Statement
 
-"6 in 10 people with dementia will experience wandering episodes."
-- Alzheimer's Association
+Millions of people globally have Parkinson's disease, a serious brain disorder. Detecting it early is vital for good treatment. But the tests we use now, like DaTscan and MRI, are expensive and can be risky. Many folks wait until their symptoms get really bad before going to the doctor, which makes treatment less effective. We need a tool that's easy to use and doesn't cost a lot to catch Parkinson's early and help people get the right care sooner.
 
-With the onset of an aging population, the prevalence of dementia has risen drastically over the years. People with dementia often experience confusion, disorientation, and memory loss, which can cause them to wander away from their homes or care facilities without realizing where they are going. Dementia wandering episodes are not only physically dangerous for patients but also emotionally traumatic for their caregivers.
-
-### 🎥 Demo Video
-
-[Watch Demo Video](https://youtu.be/peDNWLrffIQ)
 
 ### 🛠️ Key Functionalities
 
@@ -35,12 +25,14 @@ With the onset of an aging population, the prevalence of dementia has risen dras
 
 ### 🎯 UN's Sustainable Development Goals & Targets
 
-- **SDG 3: Good Health and Well-Being (Target: 3.6)**  
-HeadHome directly addresses the issue of dementia wandering, reducing dangers and stress for both patients and caregivers.
+- **SDG 1: Economic Impact Reduction**  
+PD-Scan provides a cost-effective early detection tool for Parkinson's, minimizing economic burdens on individuals and society.
 
-- **SDG 11: Sustainable Cities and Communities (Target: 11.a.1)**  
-HeadHome leverages community involvement to ensure dementia patients receive timely assistance, fostering an inclusive and socially aware community.
+- **SDG 2: Improved Health & Well-Being**  
+User-friendly and non-invasive, PD-Scan encourages early diagnosis, contributing to better health outcomes and improved well-being for individuals with Parkinson's.
 
+- **SDG 3: Healthcare Equality & Accessibility**  
+Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
 ### 👨🏻‍💻 Technology Stack
 
 Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32
