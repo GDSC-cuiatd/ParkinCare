@@ -29,17 +29,6 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 ### 🎯 UN's Sustainable Development Goals & Targets
 
-
-- <div style="background-color: #f0ad4e; color: #fff; padding: 10px; border-radius: 5px;">SDG 1: Economic Impact Reduction</div>  
-  PD-Scan provides a cost-effective early detection tool for Parkinson's, minimizing economic burdens on individuals and society.
-
-- <div style="background-color: #5bc0de; color: #fff; padding: 10px; border-radius: 5px;">SDG 2: Improved Health & Well-Being</div>  
-  User-friendly and non-invasive, PD-Scan encourages early diagnosis, contributing to better health outcomes and improved well-being for individuals with Parkinson's.
-
-- <div style="background-color: #5cb85c; color: #fff; padding: 10px; border-radius: 5px;">SDG 3: Healthcare Equality & Accessibility</div>  
-  Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
-
-
 - **SDG 1: Economic Impact Reduction**  
 PD-Scan provides a cost-effective early detection tool for Parkinson's, minimizing economic burdens on individuals and society.
 
