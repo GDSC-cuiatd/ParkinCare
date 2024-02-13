@@ -5,8 +5,8 @@
 
 
 <h1 align="center">ParkinCare</h1>
-
-Sketching A healthier Future with Parkinson
+<p align="center">
+Sketching A healthier Future with Parkinson</p>
 
 ### Problem Statement
 
