@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="file:///D:/Solution challenge parkin.png" alt="ParkinCare Logo">
+</p>
+
 # ParkinCare
-Sketching A healthier Future with Parkinsion
+
+Sketching A healthier Future with Parkinson
 
 ### Problem Statement
 
@@ -25,6 +30,7 @@ User-friendly and non-invasive, PD-Scan encourages early diagnosis, contributing
 
 - **SDG 3: Healthcare Equality & Accessibility**  
 Affordable and easy-to-use, PD-Scan addresses healthcare disparities, ensuring accessibility to early Parkinson's detection, reducing inequalities in diagnosis.
+
 ### 👨🏻‍💻 Technology Stack
 
 Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter | Dart| TensorFlow
@@ -35,4 +41,3 @@ Visual Studio | FastAPI | Adobe Illustrator | MS Word| GitHub| Google | Flutter 
 - Zainab Tahir (FLutter Developer)
 - Zakir Fayyaz (UI,UX)
 - Nayab Zahra (Project Management)
-
