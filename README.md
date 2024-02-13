@@ -13,7 +13,7 @@ HeadHome aims to reduce the dangers posed by dementia wandering and provide care
 With the onset of an aging population, the prevalence of dementia has risen drastically over the years. People with dementia often experience confusion, disorientation, and memory loss, which can cause them to wander away from their homes or care facilities without realizing where they are going. Dementia wandering episodes are not only physically dangerous for patients but also emotionally traumatic for their caregivers.
 
 ### 🎥 Demo Video
-
+![Alt text](https://github.com/GDSC-cuiatd/team_khizar/blob/main/1707215608444.jpg?raw=true).
 [Watch Demo Video](https://youtu.be/peDNWLrffIQ)
 
 ### 🛠️ Key Functionalities
