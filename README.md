@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="255" alt="ParkinCare Logo" src="https://github.com/GDSC-cuiatd/team_khizar/blob/main/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c/parkin.png">
+  <img width="255" src="https://github.com/GDSC-cuiatd/team_khizar/blob/main/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c/parkin.png">
 </p>
 
 <h1 align="center">ParkinCare</h1>
