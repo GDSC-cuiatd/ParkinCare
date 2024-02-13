@@ -30,7 +30,7 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 ### 🎯 UN's Sustainable Development Goals & Targets
 
 <div style="display: flex; align-items: center;">
-  <img width="496" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b" style="margin-right: 20px;">
+  <img width="496" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b">
   <div>
     <p><strong>SDG 1: Economic Impact Reduction</strong><br>
     PD-Scan provides a cost-effective early detection tool for Parkinson's, minimizing economic burdens on individuals and society.</p>
