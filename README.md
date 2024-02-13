@@ -20,29 +20,9 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 
 ### 🛠️ Key Functionalities
 
-<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px;">
-  <div style="display: flex; align-items: center;">
-    <img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352" style="margin-right: 20px;">
-    <div>
-      <p>The project's primary aim is to employ machine learning and a mobile app for the early detection of Parkinson's disease.</p>
-      <p>Our future app will simplify the process of identifying signs of Parkinson's disease.</p>
-      <p>Users will have the ability to draw pictures or upload photos for analysis.</p>
-      <p>The app will analyze these drawings and images for potential disease indicators.</p>
-      <p>This has the potential to enhance the treatment prospects for individuals with Parkinson's disease.</p>
-    </div>
-  </div>
-</div>
+  <p align="left">  <img width="431" alt="DRAWINGKEY" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3eb4c7c1-f20e-4d99-b4cd-19db60c6e0ff"></p>
 
-<style>
-@media (max-width: 768px) {
-  div[style*="background-color: #f7f7f7; padding: 20px; border-radius: 10px;"] {
-    padding: 10px;
-  }
-  img[style*="margin-right: 20px;"] {
-    margin-right: 10px;
-  }
-}
-</style>
+  <p align="right">  <img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352" style="margin-right: 20px;"></p>
 
 
 
