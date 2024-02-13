@@ -1,6 +1,7 @@
-<img width="255" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c">
-
-# ParkinCare
+<div style="text-align: center;">
+  <img width="255" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/81649775-633a-4935-b6a4-bb7c17e4040c">
+  <h1>ParkinCare</h1>
+</div>
 
 Sketching A healthier Future with Parkinson
 
