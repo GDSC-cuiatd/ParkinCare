@@ -4,9 +4,7 @@
   <p align="center"><img width="850" height="500" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/e14096b4-8b5a-44c3-9c5f-b1eb9c2d1fe8">
 
 
-**AgriTech: An AI-Powered Solution for Sustainable Agriculture**
 
-AgriTech is dedicated to combating crop diseases in Pakistan, using advanced AI to enhance agricultural productivity and sustainability.
 
 
 ### Problem Statement
