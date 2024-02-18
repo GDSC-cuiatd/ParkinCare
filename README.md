@@ -1,7 +1,6 @@
 <h1 align="center">Early Detection of Parkinson's Disease through Drawing project</h1>
-<p align="center">
-  <img width="450", height=300 alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/5cddc766-5742-466d-b019-c9d8cc58c8ce">
-</p>
+<p align="center"><img width="450" height="300" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/5cddc766-5742-466d-b019-c9d8cc58c8ce">
+
 
 <h1 align="center">ParkinCare</h1>
 
