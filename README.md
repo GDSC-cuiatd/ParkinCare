@@ -1,5 +1,12 @@
 <h1 align="center">Early Detection of Parkinson's Disease through Drawing project</h1>
 <p align="center"><img width="650" height="500" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/5cddc766-5742-466d-b019-c9d8cc58c8ce">
+<h1 align="center">AgriTech Project</h1>
+
+![AgriTech](https://github.com/GDSC-cuiatd/team_raees/blob/main/assests/project.png) <!-- Replace with your image path -->
+
+**AgriTech: An AI-Powered Solution for Sustainable Agriculture**
+
+AgriTech is dedicated to combating crop diseases in Pakistan, using advanced AI to enhance agricultural productivity and sustainability.
 
 
 ### Problem Statement
