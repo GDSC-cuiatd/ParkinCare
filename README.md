@@ -21,7 +21,8 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 ## 🛠️ &nbsp;Key Functionalities
 
   <p align="center"><img width="850" height="500" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/8bb234f9-235c-4791-a374-90c3e61cdcda">
-### 🎯 UN's Sustainable Development Goals & Targets
+
+## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 <p align="center"><img width="496" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b"></p>
 
 - **SDG 1: Economic Impact Reduction**  
