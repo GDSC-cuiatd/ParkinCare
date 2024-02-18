@@ -1,7 +1,8 @@
 <h1 align="center">Early Detection of Parkinson's Disease through Drawing project</h1>
 <p align="center"><img width="650" height="500" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/5cddc766-5742-466d-b019-c9d8cc58c8ce">
 <h1 align="center">Parkin Care</h1>
-"https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/e14096b4-8b5a-44c3-9c5f-b1eb9c2d1fe8"
+  ![parkin]("https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/e14096b4-8b5a-44c3-9c5f-b1eb9c2d1fe8")
+
 
 **AgriTech: An AI-Powered Solution for Sustainable Agriculture**
 
