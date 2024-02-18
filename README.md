@@ -11,17 +11,16 @@
 
 Millions of people globally have Parkinson's disease, a serious brain disorder. Detecting it early is vital for good treatment. But the tests we use now, like DaTscan and MRI, are expensive and can be risky. Many folks wait until their symptoms get really bad before going to the doctor, which makes treatment less effective. We need a tool that's easy to use and doesn't cost a lot to catch Parkinson's early and help people get the right care sooner.
 
-<p align="center">
-  <img width="429" alt="spiral" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/bab01ed6-36c1-4724-a609-04945e0844ac">
-</p>
+## 🎥 &nbsp;Demo Video
 
+<!-- Replace with your actual video thumbnail and link -->
+<a href="link-to-demo-video"><img src="path/to/your/demo-video-thumbnail.png" /></a>
 
-### 🛠️ Key Functionalities
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img width="431" alt="DRAWINGKEY" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3eb4c7c1-f20e-4d99-b4cd-19db60c6e0ff">
-  <img width="338" alt="drawing" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/ea1a1fc1-37cf-4c3b-9689-eef094ae1352" style="margin-left: 20px;">
-</div>
+> Video Link: link-to-demo-video To be Added <!-- Replace with your video link -->
 
+## 🛠️ &nbsp;Key Functionalities
+
+  <p align="center"><img width="850" height="500" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/8bb234f9-235c-4791-a374-90c3e61cdcda">h -->
 ### 🎯 UN's Sustainable Development Goals & Targets
 <p align="center"><img width="496" alt="SDG" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/3cb6da0c-4636-4300-b801-da14e135437b"></p>
 
