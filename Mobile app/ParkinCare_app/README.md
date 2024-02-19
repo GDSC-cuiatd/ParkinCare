@@ -15,7 +15,7 @@ The <b>Parkin Care application</b> Parkin Care offers a user-friendly interface,
 <br>
 <br>
   <div >
-        <img  src="(https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/f15ac745-d9ff-48e6-9005-4d8d7185fd8a" alt=""/>
+        <img  src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/f15ac745-d9ff-48e6-9005-4d8d7185fd8a" alt=""/>
     </div>
 <be>
 <br>
