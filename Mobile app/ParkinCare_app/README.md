@@ -66,6 +66,8 @@ $ flutter pub get
 $ flutter run [--release]
 ```
 
+<br>
+
 ## 👥 &nbsp;Contributors
 
 
