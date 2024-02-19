@@ -3,9 +3,12 @@
         <img width="200px" borderRadius="50" src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/a4b48fe1-76e2-4673-b9cd-5072dee71c47" alt=""/>
     </div>
     <div >
-           
-            <p style="font-size:18px"><i>Sketching a healthier future with parkinson</i></p>
+    <p style="font-size:80px;"><b>Parkin Care</b></p>
+            <p style="font-size:18px"><i>Early Detection of Parkinson Diswase</i></p>
     </div>      
+           
+       
+     
 </div>
 <br>
 
