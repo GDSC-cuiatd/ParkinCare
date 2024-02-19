@@ -18,7 +18,7 @@ The <b>Early Detection of Parkinson Disease/b>The proposed app for early Parkins
 <br>
 <br>
   <div >
-        <img  src=".https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/6da35585-9010-448e-bf8e-0c0cafb738d3" alt=""/>
+        <img  src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/6da35585-9010-448e-bf8e-0c0cafb738d3" alt=""/>
     </div>
 <be>
 <br>
