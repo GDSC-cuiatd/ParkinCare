@@ -137,7 +137,7 @@ class _SignUpState extends State<SignUp> {
     final signupButton = Material(
       elevation: 5,
       borderRadius: BorderRadius.circular(10),
-      color: Color(0xFF009DD1),
+      color: Color(0xFF193660),
       child: MaterialButton(
         minWidth: MediaQuery.of(context).size.width,
         onPressed: () {
@@ -167,9 +167,9 @@ class _SignUpState extends State<SignUp> {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: <Widget>[
                       Image.asset(
-                        "lib/Assets/disability.png",
+                        "lib/Assets/logo.png",
                         fit: BoxFit.contain,
-                        height: h * 0.20,
+                        height: h * 0.30,
                       ),
                       SizedBox(
                         height: h * 0.07,

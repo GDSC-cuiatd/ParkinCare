@@ -1,10 +1,11 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_sizer/flutter_sizer.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:myworking_app/Screens/Auth/forgeotPassword.dart';
 import 'package:myworking_app/Screens/Auth/signup.dart';
 
-import 'package:myworking_app/homeScreen.dart';
+import 'package:myworking_app/Screens/screens/homeScreen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -92,7 +93,7 @@ class _LoginScreenState extends State<LoginScreen> {
     final loginButton = Material(
       elevation: 5,
       borderRadius: BorderRadius.circular(10),
-      color: Color(0xFF009DD1),
+      color: Color(0xFF193660),
       child: MaterialButton(
         minWidth: MediaQuery.of(context).size.width,
         onPressed: () {
@@ -106,87 +107,89 @@ class _LoginScreenState extends State<LoginScreen> {
       ),
     );
 
-    var h = MediaQuery.of(context).size.height;
     return SafeArea(
       child: Scaffold(
         backgroundColor: Colors.white,
-        body: Center(
-            child: SingleChildScrollView(
-          child: Container(
-            child: Padding(
-              padding: const EdgeInsets.all(10.0),
-              child: Form(
-                  key: formKey,
-                  child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    crossAxisAlignment: CrossAxisAlignment.center,
-                    children: <Widget>[
-                      Image.asset(
-                        "lib/Assets/disability.png",
-                        fit: BoxFit.contain,
-                        height: h * 0.20,
-                      ),
-                      SizedBox(
-                        height: h * 0.12,
-                      ),
-                      emailField,
-                      SizedBox(
-                        height: MediaQuery.of(context).size.width * .06,
-                      ),
-                      passField,
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.end,
-                        children: [
-                          TextButton(
-                              onPressed: () {
-                                Navigator.push(
+        body: SingleChildScrollView(
+          child: Column(
+            children: [
+              SizedBox(
+                height: 15.h,
+              ),
+              Container(
+                child: Padding(
+                  padding: const EdgeInsets.all(10),
+                  child: Form(
+                      key: formKey,
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        crossAxisAlignment: CrossAxisAlignment.center,
+                        children: <Widget>[
+                          Image.asset(
+                            "lib/Assets/logo.png",
+                            height: 30.h,
+                            fit: BoxFit.contain,
+                          ),
+                          SizedBox(
+                            height: 1.h,
+                          ),
+                          emailField,
+                          SizedBox(
+                            height: MediaQuery.of(context).size.width * .06,
+                          ),
+                          passField,
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.end,
+                            children: [
+                              TextButton(
+                                  onPressed: () {
+                                    Navigator.push(
+                                        context,
+                                        MaterialPageRoute(
+                                            builder: (context) =>
+                                                const ForgotPassword()));
+                                  },
+                                  child: const Text(
+                                    "Forgot Password?",
+                                    style: TextStyle(
+                                        fontSize: 15,
+                                        fontWeight: FontWeight.bold,
+                                        color: Colors.black),
+                                  ))
+                            ],
+                          ),
+                          loginButton,
+                          SizedBox(
+                            height: 1.h,
+                          ),
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text("Don't have an account?"),
+                              GestureDetector(
+                                onTap: () {
+                                  Navigator.push(
                                     context,
                                     MaterialPageRoute(
-                                        builder: (context) =>
-                                            const ForgotPassword()));
-                              },
-                              child: const Text(
-                                "Forgot Password?",
-                                style: TextStyle(
-                                    fontSize: 15,
-                                    fontWeight: FontWeight.bold,
-                                    color: Colors.black),
-                              ))
-                        ],
-                      ),
-                      SizedBox(
-                        height: MediaQuery.of(context).size.width * .12,
-                      ),
-                      loginButton,
-                      SizedBox(
-                        height: h * .01,
-                      ),
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          Text("Don't have an account?"),
-                          GestureDetector(
-                            onTap: () {
-                              Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (context) => SignUp()),
-                              );
-                            },
-                            child: Text(
-                              "Sign Up ",
-                              style: TextStyle(
-                                  color: Colors.red,
-                                  fontWeight: FontWeight.bold),
-                            ),
+                                        builder: (context) => SignUp()),
+                                  );
+                                },
+                                child: Text(
+                                  "Sign Up ",
+                                  style: TextStyle(
+                                      color: Colors.red,
+                                      fontWeight: FontWeight.bold),
+                                ),
+                              )
+                            ],
                           )
                         ],
-                      )
-                    ],
-                  )),
-            ),
+                      )),
+                ),
+              ),
+            ],
           ),
-        )),
+        ),
       ),
     );
   }

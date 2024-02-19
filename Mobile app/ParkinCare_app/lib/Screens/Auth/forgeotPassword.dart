@@ -46,7 +46,7 @@ class _ForgotPasswordState extends State<ForgotPassword> {
     final EmailButton = Material(
       elevation: 5,
       borderRadius: BorderRadius.circular(10),
-      color: Color(0xFF009DD1),
+      color: Color(0xFF193660),
       child: MaterialButton(
         minWidth: MediaQuery.of(context).size.width,
         onPressed: () {
@@ -73,8 +73,9 @@ class _ForgotPasswordState extends State<ForgotPassword> {
               //mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
+                Image.asset('lib/Assets/logo.png', height: 200, width: 250),
                 SizedBox(
-                  height: h * 0.14,
+                  height: h * 0.04,
                 ),
                 Text(
                   "Reset Password",
