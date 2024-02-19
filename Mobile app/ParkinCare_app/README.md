@@ -1,6 +1,6 @@
 <div align="center">
     <div >
-        <img width="200px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/8a8a6384-87da-4e41-a9cb-176f2d0c1239" alt=""/>
+        <img width="200px" borderRadius="50" src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/8a8a6384-87da-4e41-a9cb-176f2d0c1239" alt=""/>
     </div>
     <div >
             <p style="font-size:50px;"><b>Parkin Care</b></p>
