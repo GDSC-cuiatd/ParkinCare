@@ -3,15 +3,15 @@
         <img width="200px" borderRadius="50" src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/a4b48fe1-76e2-4673-b9cd-5072dee71c47" alt=""/>
     </div>
     <div >
-            <p style="font-size:50px;"><b>Parkin Care</b></p>
+           
             <p style="font-size:18px"><i>Sketching a healthier future with parkinson</i></p>
     </div>      
 </div>
 <br>
 
-<h1 align="center">MarrowMaster Application</h1>
+<h1 align="center">Parkin Care Application</h1>
 
-The <b>Marrow Master application</b> presents users with a simplified and streamlined interface that highlights only the most relevant information for each user.
+The <b>Early Detection of Parkinson Disease/b>The proposed app for early Parkinson's disease detection streamlines analysis of drawing patterns, aiding in early diagnosis through a user-friendly interface and offline functionality for wider accessibility.
 <br>
 <br>
   <div >
