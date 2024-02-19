@@ -29,10 +29,10 @@ The <b>Early Detection of Parkinson Disease/b>The proposed app for early Parkins
         <img height="60" src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/0886050f-dcb0-4f47-8ab1-3ef39c0a7c6c"/>
     </kbd>
     <kbd>
-        <img height="60" src="../assets/dart.png"/>
+        <img height="60" src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/3a1a776e-c36a-42f4-a86a-63e9098401eb"/>
     </kbd>
     <kbd>
-        <img height="60" src="../assets/firebase.png"/>
+        <img height="60" src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/e411579e-1281-4d19-8851-3d9a6a0cc51e"/>
     </kbd>
     <h4>Flutter | Dart | Firebase</h4>
 </div>
