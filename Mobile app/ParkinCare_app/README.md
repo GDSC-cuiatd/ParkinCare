@@ -64,78 +64,7 @@ $ flutter pub get
 
 ```
 $ flutter run [--release]
-```
-<br>
 
-## 🔑 &nbsp;Files and Directories
-
-```tree
-├── android
-├── assets
-├── ios
-├── lib
-│   ├── controller
-│   |   ├── auth_controller
-|   |   |   |── change_password_controller.dart
-|   |   |   |── forget_password_controller.dart
-|   |   |   |── login_screen_controller.dart
-|   |   |   |── register_screen_controller.dart
-│   |   └── home_main_controller
-|   |   |   |── history_controller
-|   |   |   |   |── history_controller.dart
-|   |   |   |── home_screens_controller
-|   |   |   |   |── home_controller.dart
-|   |   |   |── setting_screen_controller
-|   |   |   |   |── logout_controller.dart
-│   ├── data
-│   |   ├── network
-|   |   |   |── base_api_service.dart
-|   |   |   |── network_api_service.dart
-│   |   ├── repository
-|   |   |   |── home_repository.dart
-│   |   ├── app_exception.dart
-│   ├── View
-│   |   ├── auth_screen
-|   |   |   |── change_password_screen.dart
-|   |   |   |── forget_password_screen.dart
-|   |   |   |── login_screen.dart
-|   |   |   |── register_screen.dart
-│   |   ├── home_screen
-|   |   |   |── history_screen
-|   |   |   |   |── history_screen_component
-|   |   |   |   |   |── view_history_container.dart
-|   |   |   |   |── history_screen.dart
-|   |   |   |── home_screen_component
-|   |   |   |   |── upload_button.dart
-|   |   |   |── result_screen
-|   |   |   |   |── result_screen.dart
-|   |   |   |── setting_screen
-|   |   |   |   |── setting_screen_component
-|   |   |   |   |   |── about_us_screen.dart
-|   |   |   |   |── profile_screen.dart
-|   |   |   |   |── setting_screen.dart
-|   |   |   |── home_main_screen.dart
-|   |   |   |── home_screen.dart
-│   |   ├── on_boarding_screen
-|   |   |   |── onBoard_screen.dart
-|   |   |   |── splash_screen.dart
-│   |   ├── otp_screen.dart
-│   ├── firebase_option.dart
-│   └── main.dart
-├── linux
-├── macos
-├── test
-├── web
-├── windows
-├── .gitignore
-├── .metadata
-├── README.md
-├── analysis_options.yaml
-├── pubspec.lock
-├── pubspec.yaml
-```
-
-</br>
 
 ## 👥 &nbsp;Contributors
 | <a href="https://github.com/chayhuixiang"><img width="180px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/56008893-bb68-413a-99d7-32a87fcd76fe" alt=""/></a> | <a href="https://github.com/raeesazam"><img width="180px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/b3a5e7ae-3597-4dcb-bb29-2df35d1e78a6" alt=""/></a> | <a href="https://github.com/askhan963"><img width="180px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/c5a71c87-4f71-40a9-b361-9cc58a26def1" alt=""/></a> | <a href="https://github.com/askhan963"><img width="180px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/0766d97a-d42d-4f8e-9cae-feb542e81dc9" alt=""/></a> |
