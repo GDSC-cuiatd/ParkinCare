@@ -1,10 +1,10 @@
 <div align="center">
     <div >
-        <img width="200px" src="../assets/logo.png" alt=""/>
+        <img width="200px" src="https://github.com/GDSC-cuiatd/team_khizar/assets/102031123/3e3910b4-c7e7-4244-84e5-7d64778e459c" alt=""/>
     </div>
     <div >
-            <p style="font-size:50px;"><b>Marrow Master</b></p>
-            <p style="font-size:18px"><i>Experience the future of cell</i></p>
+            <p style="font-size:50px;"><b>Parkin Care</b></p>
+            <p style="font-size:18px"><i>Sketching a healthier future with parkinson</i></p>
     </div>      
 </div>
 <br>
@@ -47,13 +47,13 @@ This repo contains the <b>Frontend application</b> for Marrow Master. Click [her
 1. Clone Repo
 
 ```
-$ git clone https://github.com/GDSC-cuiatd/marrow_master/automated_bone_marrow_cell_classification_system
-```
+$ git clone https://github.com/GDSC-cuiatd/team_khizar/tree/main/Mobile%20app/ParkinCare_app
 
 2. Run the following code in bash to install the required dependencies
 
 ```
-$ cd automated_bone_marrow_cell_classification_system
+$ cd ParkinCare_app
+
 $ flutter pub get
 ```
 
