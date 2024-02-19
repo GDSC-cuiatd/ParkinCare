@@ -41,7 +41,7 @@ The <b>Early Detection of Parkinson Disease/b>The proposed app for early Parkins
 
 # Getting Started
 
-This repo contains the <b>Frontend application</b> for Parkin Care. Click [here](https://github.com/GDSC-cuiatd/marrow_master) to view the full solution.
+This repo contains the <b>Frontend application</b> for Parkin Care. Click [here](https://github.com/GDSC-cuiatd/team_khizar/tree/main/Mobile%20app/ParkinCare_app) to view the full solution.
 <br><br>
 [Flutter `(Version 3.16.7 • channel stable)`](https://docs.flutter.dev/get-started/install) must be installed to run this application.
 
