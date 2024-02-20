@@ -1,7 +1,7 @@
 <h1 align="center">Early Detection of Parkinson's Disease through Drawing project</h1>
 <p align="center"><img width="650" height="500" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/5cddc766-5742-466d-b019-c9d8cc58c8ce">
 <h1 align="center">Parkin Care</h1>
-  <p align="center"><img width="850" height="500" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/e14096b4-8b5a-44c3-9c5f-b1eb9c2d1fe8">
+  <p align="center"><img width="550" height="500" alt="parkin" src="https://github.com/GDSC-cuiatd/team_khizar/assets/144155704/e14096b4-8b5a-44c3-9c5f-b1eb9c2d1fe8">
 
 
 
@@ -14,7 +14,7 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 ## 🎥 &nbsp;Demo Video
 
 <!-- Replace with your actual video thumbnail and link -->
-<a href="https://youtu.be/peDNWLrffIQ"><img src="https://github.com/GDSC-cuiatd/ParkinCare/assets/144155704/d359f093-36d6-4662-9c32-9c61c5028aae" /></a>
+<a href="https://www.youtube.com/watch?v=LzoVVxgCkOQ"><img src="https://github.com/GDSC-cuiatd/ParkinCare/assets/144155704/d359f093-36d6-4662-9c32-9c61c5028aae" /></a>
 
 > Video Link: https://www.youtube.com/watch?v=LzoVVxgCkOQ
 
