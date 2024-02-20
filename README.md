@@ -14,9 +14,9 @@ Millions of people globally have Parkinson's disease, a serious brain disorder. 
 ## 🎥 &nbsp;Demo Video
 
 <!-- Replace with your actual video thumbnail and link -->
-<a href="link-to-demo-video"><img src="path/to/your/demo-video-thumbnail.png" /></a>
+<a href="https://youtu.be/peDNWLrffIQ"><img src="./assets/demo-video-thumbnail.png" /></a>
 
-> Video Link: link-to-demo-video To be Added <!-- Replace with your video link -->
+> Video Link: https://www.youtube.com/watch?v=LzoVVxgCkOQ
 
 ## 🛠️ &nbsp;Key Functionalities
 
